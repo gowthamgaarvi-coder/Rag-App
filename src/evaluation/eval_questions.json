@@ -1,0 +1,8 @@
+[
+  {"question": "What was Acme Corp's FY2025 revenue and net profit?", "relevant_sources": ["1_financial_report.pdf"]},
+  {"question": "How many adults were enrolled in the Cardiolex CX-204 clinical trial?", "relevant_sources": ["2_clinical_trial_report.pdf"]},
+  {"question": "What architecture does the Nimbus order management platform use?", "relevant_sources": ["3_technical_specification.pdf"]},
+  {"question": "What period is covered by the regional climate briefing?", "relevant_sources": ["4_climate_briefing.pdf"]},
+  {"question": "How much does the AeroBook 14 cost and how much does it weigh?", "relevant_sources": ["5_product_catalog.pdf"]},
+  {"question": "Why is retrieval-augmented generation useful for language models?", "relevant_sources": ["rag_guide_big.pdf"]}
+]

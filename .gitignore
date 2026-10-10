@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/indexes/
+data/qdrant_storage/
+logs/

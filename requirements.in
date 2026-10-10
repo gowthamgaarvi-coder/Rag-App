@@ -1,0 +1,18 @@
+# Step 3 will pin and install the selected dependencies.
+pymupdf
+sentence-transformers
+qdrant-client
+rank-bm25
+openai
+python-dotenv
+pydantic-settings
+fastapi
+uvicorn
+streamlit
+# Optional evaluation add-ons. They are intentionally excluded from the base
+# install because ragas currently pulls scikit-network, which needs a C/C++
+# compiler on some Python versions.
+# ragas
+# datasets
+pytest
+ruff
